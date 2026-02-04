@@ -15,8 +15,6 @@ const nextConfig: NextConfig = {
     formats: ['image/avif', 'image/webp'],
     unoptimized: false,
   },
-  // Enable optimizations
-  swcMinify: true,
   // Compression
   compress: true,
   // SEO improvements
